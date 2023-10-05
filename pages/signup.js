@@ -1,7 +1,4 @@
 import React from "react";
-import Head from "next/head";
-import Image from "next/image";
-
 import { BsPersonCircle } from "react-icons/bs";
 import { HiMail } from "react-icons/hi";
 import { RiLockPasswordFill } from "react-icons/ri";

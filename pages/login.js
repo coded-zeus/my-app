@@ -1,6 +1,4 @@
-import Head from "next/head";
 import React from "react";
-import { BsPersonCircle } from "react-icons/bs";
 import { HiMail } from "react-icons/hi";
 import { RiLockPasswordFill } from "react-icons/ri";
 import "../app/globals.css";
